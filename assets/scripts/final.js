@@ -56,7 +56,7 @@ function page_change(site) {
 }
 
 function home() {
-  page_change("final.html");
+  page_change("index.html");
 }
 
 function ing() {
