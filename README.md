@@ -14,7 +14,7 @@ materials, and directions.
 
 I made it for fun as my first ever website.
 
-![Website Screenshot](./img/website_screenshot.png)
+![Website Screenshot](assets/images/website_screenshot.png)
 
 ## Website link
 https://joonqkr.github.io/chocolate-chips/
