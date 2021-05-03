@@ -14,10 +14,10 @@ materials, and directions.
 
 I made it for fun as my first ever website.
 
-![Website Screenshot](./img/website_screenshot)
+![Website Screenshot](./img/website_screenshot.png)
 
-## Website Link
-Describe how to install / setup your local environement / add link to demo version.
+## Website link
+https://joonqkr.github.io/chocolate-chips/
 
 ## Technologies
 * HTML
@@ -26,4 +26,6 @@ Describe how to install / setup your local environement / add link to demo versi
 * Adobe Illustrator
 
 ## Status
-Project is: _tentatively finished_. and why?
+Project is: _tentatively finished_.
+
+It serves its main purpose, but possible adjustments: compatibility with mobile and varying screen sizes.
